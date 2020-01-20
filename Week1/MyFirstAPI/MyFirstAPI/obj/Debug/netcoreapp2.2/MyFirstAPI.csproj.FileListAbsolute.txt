@@ -1,0 +1,16 @@
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.deps.json
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.runtimeconfig.json
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.runtimeconfig.dev.json
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.dll
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\bin\Debug\netcoreapp2.2\MyFirstAPI.pdb
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.csprojAssemblyReference.cache
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.RazorAssemblyInfo.cache
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.RazorAssemblyInfo.cs
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.AssemblyInfoInputs.cache
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.AssemblyInfo.cs
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.RazorTargetAssemblyInfo.cache
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.dll
+C:\Users\herwrigh\Documents\LCA\DevFolder\LCA321-API\Week1\MyFirstAPI\MyFirstAPI\obj\Debug\netcoreapp2.2\MyFirstAPI.pdb
