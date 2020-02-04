@@ -1,0 +1,6 @@
+[submodule "Week3D2"]
+	path = Week3D2
+	url = https://github.com/Herb1691/LCA321-API.git
+[submodule "Week4D1"]
+	path = Week4D1
+	url = https://github.com/Herb1691/CS321_W4D1_BookAPI.git
